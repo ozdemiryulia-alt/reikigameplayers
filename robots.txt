@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ozdemiryulia-alt.github.io/reikigameplayers/sitemap.xml
